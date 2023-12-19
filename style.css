@@ -1,0 +1,237 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* wrapper start here */
+.wrapper{
+    max-width: 1120px;
+    margin: auto;
+}
+
+/* header start here */
+.header_main{
+    width: 100%;
+    height: 300px;
+    display: flex;
+}
+.header_content{
+    width: 100%;
+    display: flex;
+}
+.header_content1{
+    width: 33%;
+}
+.header_content1_1{
+    width: 100%;
+    height: 30%;
+    display: flex;
+}
+.header_content1_11{
+    width: 50%;
+    background-color: rgb(167, 94, 255);
+}
+.header_content1_12{
+    width: 50%;
+    background-color: palevioletred;
+}
+.header_content1_2{
+    height: 70%;
+    background-color: aqua;
+}
+.header_content2{
+    width: 34%;
+    background-color: rgb(197, 164, 123);
+}
+.header_content3{
+    width: 33%;
+}
+.header_content3_1{
+    width: 100%;
+    height: 70%;
+    background-color: rgb(167, 94, 255);   
+}
+.header_content3_2{
+    height: 30%;
+    display: flex;
+}
+.header_content3_21{
+    width: 50%;
+    background-color: aqua;
+}
+.header_content3_22{
+    width: 50%;
+    background-color: palevioletred;
+}
+
+/* section start here */
+.section_main{
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+.section_content{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.section_content1{
+    width: 50%;
+    height: 50%;
+}
+.section_content1_1{
+    width: 100%;
+    height: 50%;
+    background-color: green;
+}
+.section_content1_2{
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+.section_content1_21{
+    width: 50%;
+    background-color: rgb(30, 5, 67);
+}
+.section_content1_22{
+    width: 50%;
+    background-color: rgb(255, 0, 0);
+}
+.section_content2{
+    width: 25%;
+    height: 50%;
+    background-color: rgb(160, 108, 44);
+}
+.section_content3{
+    width: 25%;
+    height: 50%;
+}
+.section_content3_1{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(96, 37, 37);
+}
+.section_content3_2{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(91, 118, 176);
+}
+.section_content4{
+    width: 33%;
+    height: 50%;
+}
+.section_content4_1{
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+.section_content4_11{
+    width: 50%;
+    background-color: coral;
+}
+.section_content4_12{
+    width: 50%;
+    background-color: palevioletred;
+}
+.section_content4_2{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(96, 37, 37);
+}
+.section_content5{
+    width: 34%;
+    height: 50%;
+    background-color: rgb(65, 36, 142);
+}
+.section_content6{
+    width: 33%;
+    height: 50%;
+}
+.section_content6_1{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(132, 9, 54);
+}
+.section_content6_2{
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+.section_content6_21{
+    width: 50%;
+    background-color: coral;
+}
+.section_content6_22{
+    width: 50%;
+    background-color: aqua;
+}
+
+/* footer start here */
+.footer_main{
+    width: 100%;
+    height: 300px;
+    display: flex;
+}
+.footer_content{
+    width: 100%;
+    display: flex;
+}
+.footer_content1{
+    width: 25%;
+}
+.footer_content1_1{
+    width: 100%;
+    height: 50%;
+    background-color: aqua;
+}
+.footer_content1_2{
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+.footer_content1_21{
+    width: 50%;
+    background-color: coral;
+}
+.footer_content1_22{
+    width: 50%;
+    background-color: rgb(255, 0, 0);
+}
+.footer_content2{
+    width: 25%;
+}
+.footer_content2_1{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(30, 5, 67);
+}
+.footer_content2_2{
+    width: 100%;
+    height: 50%;
+    background-color: yellowgreen;
+}
+.footer_content3{
+    width: 25%;
+}
+.footer_content3_1{
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+.footer_content3_11{
+    width: 50%;
+    background-color: coral;
+}
+.footer_content3_12{
+    width: 50%;
+    background-color: rgb(255, 0, 0);
+}
+.footer_content3_2{
+    width: 100%;
+    height: 50%;
+    background-color: rgb(110, 68, 209);
+}
+.footer_content4{
+    width: 25%;
+    background-color: rgb(255, 0, 85);
+}
